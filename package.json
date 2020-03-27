@@ -1,0 +1,14 @@
+{
+  "name": "pattern-module",
+  "version": "1.0.0",
+  "description": "the pattern module has all its public properties",
+  "main": "pattern-module.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodolfo La Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
